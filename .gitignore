@@ -1,0 +1,12 @@
+dist/
+.astro/
+node_modules/
+.netlify/
+npm-debug.log*
+.env
+.env.*
+.DS_Store
+
+# local only
+BRIEF.md
+.claude/
